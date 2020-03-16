@@ -7,3 +7,4 @@ curl https://raw.githubusercontent.com/pbuszczyk/docker/master/dockerfile -o doc
 docker build -t hello-world .
 docker run -t -i -p 80:80 hello-world
 test test test
+nie nie
